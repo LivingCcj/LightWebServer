@@ -1,0 +1,2 @@
+g++ -o serever main.cpp timer/lst_timer.cpp http/http_server.cpp log/log.cpp webserver.cpp -g -lpthread
+makefile:12: recipe for target 'server' failed
